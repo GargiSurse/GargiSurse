@@ -26,5 +26,3 @@ I'm an enthusiastic Full Stack Developer and UI/UX Designer with a growing passi
 • 😄 **Pronouns**: She/Her  
 • 🔍 **Fun fact**: I love learning random tech facts and exploring design trends—it keeps my creativity and curiosity constantly alive ✨
 
-💻 Tech Stack:
-C C++ Python Java JavaScript MySQL Firebase MongoDB Canva Figma
