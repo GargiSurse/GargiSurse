@@ -1,4 +1,4 @@
-##✨ Hey there, I'm Gargi Surse! 👩‍💻
+✨ Hey there, I'm Gargi Surse! 👩‍💻
 
 I'm an enthusiastic Full Stack Developer and UI/UX Designer with a growing passion for **Artificial Intelligence and Machine Learning**. I love creating intuitive, visually compelling applications, while continuously exploring the deeper layers of tech innovation.
 
