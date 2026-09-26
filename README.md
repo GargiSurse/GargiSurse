@@ -1,28 +1,20 @@
-✨ Hey there, I'm Gargi Surse! 👩‍💻
+# Hey there, I'm Gargi Surse! 👩‍💻
 
-I'm an enthusiastic Full Stack Developer and UI/UX Designer with a growing passion for **Artificial Intelligence and Machine Learning**. I love creating intuitive, visually compelling applications, while continuously exploring the deeper layers of tech innovation.
+I'm an **Information Technology student** and a passionate **Full Stack Web Developer** who enjoys turning ideas into practical and user-friendly web applications. I love building projects, learning new technologies, and improving my skills with every project I create.
 
-• 🔭 **I’m currently working on** diverse projects in **web development and AI/ML**, blending clean user interface design with smart backend functionality.  
-  My GitHub showcases my journey and evolving skill set.
+* 🔭 **I'm currently working on** web development projects, exploring both front-end and back-end development while building real-world applications that solve everyday problems.
 
-• 🌱 **I'm deeply curious and always learning** – from **UX psychology and JavaScript frameworks** to **data preprocessing and neural networks**.  
-  My goal is to connect design thinking with AI to build powerful, user-centric solutions.
+* 🌱 **I'm always learning** modern web technologies, improving my JavaScript skills, and understanding how full-stack applications are built from development to deployment.
 
-• 👯 **I’m eager to collaborate** with fellow developers, designers, and AI enthusiasts.  
-  Whether it’s contributing to an open-source project or brainstorming innovative ideas—I believe collaboration fuels growth.
+* 👯 **I'm eager to collaborate** with fellow developers on interesting projects, open-source contributions, and creative ideas that help us learn together.
 
-• 🤝 **Let’s connect!**  
-  I'm open to meaningful conversations around **design, development, and AI**. If you're working on something cool—count me in!
+* 🤝 **Let's connect!** I'm always open to conversations about web development, technology, and building impactful projects.
 
-• 🤔 **I’m looking to collaborate** with experienced developers and ML practitioners to scale intelligent apps using **Firebase, AWS, or cloud-based tools**.  
-  If you’ve got cloud expertise, I’d love to learn from you or team up!
+* 💬 **Ask me about:**
 
-• 💬 **Ask me about**:  
-  • Turning ideas into intuitive UIs  
-  • Starting with AI/ML as a beginner  
-  • Front-end best practices  
-  • Improving user experiences with smart design
+  * Full Stack Web Development
+  * HTML, CSS & JavaScript
+  * React basics
+  * Beginner-friendly web development tips
 
-• 😄 **Pronouns**: She/Her  
-• 🔍 **Fun fact**: I love learning random tech facts and exploring design trends—it keeps my creativity and curiosity constantly alive ✨
-
+* ✨ **Fun fact:** I enjoy building projects from scratch and discovering small tech tricks that make development easier and more fun.
